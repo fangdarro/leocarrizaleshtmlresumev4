@@ -1,0 +1,56 @@
+body {
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-color: teal;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  top: 0;
+  left: 0;
+}
+
+.card {
+  position: absolute;
+  left: 32em;
+  right: 12em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.5em;
+  align-content: center;
+  border-radius: 1em;
+}
+.profile-image {
+  border-radius: 50%;
+  margin-left: 23em;
+  margin-top: 1em;
+  image-resolution: 100%;
+  position: relative;
+}
+
+.profile-image img {
+  border-radius: 50%;
+}
+
+footer {
+  margin-bottom: 1em;
+  border-bottom: 1em;
+  color: black;
+  height: auto;
+  background-color: aqua;
+}
+.card1 {
+  left: 6em;
+  right: 8em;
+  align-content: center;
+  margin-top: 12em;
+}
+
+h1 {
+  font-size: 400%;
+  color: white;
+  border-style: solid;
+  margin-top: 10%;
+}
