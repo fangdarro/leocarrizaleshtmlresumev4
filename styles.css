@@ -1,5 +1,5 @@
 body {
-  background-image: url("background.png");
+  background-image: url("43-435421_abstract-png-high-quality-image-blue-background-for.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-color: teal;
@@ -14,17 +14,17 @@ body {
 
 .card {
   position: absolute;
-  left: 32em;
+  left: 36em;
   right: 12em;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 0.5em;
+  margin-top: -20em;
   align-content: center;
   border-radius: 1em;
 }
 .profile-image {
   border-radius: 50%;
-  margin-left: 23em;
+  margin-left: 2em;
   margin-top: 1em;
   image-resolution: 100%;
   position: relative;
@@ -45,7 +45,7 @@ footer {
   left: 6em;
   right: 8em;
   align-content: center;
-  margin-top: 12em;
+  margin-top: 6em;
 }
 
 h1 {
