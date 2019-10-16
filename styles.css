@@ -1,5 +1,5 @@
 body {
-  background-image: url("43-435421_abstract-png-high-quality-image-blue-background-for.jpg");
+  background-image: url("background.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   image-rendering: -webkit-optimize-contrast;
@@ -12,9 +12,9 @@ body {
 }
 
 .card {
-  position: absolute;
-  left: 36em;
-  right: 12em;
+  left: 15em;
+  right: 1em;
+  width: 36em;
   margin-left: auto;
   margin-right: auto;
   margin-top: -20em;
@@ -35,10 +35,9 @@ body {
 
 footer {
   margin-bottom: 1em;
-  border-bottom: 1em;
   color: black;
   height: auto;
-  background-color: aqua;
+  background-color: rgb(9, 204, 238);
 }
 .card1 {
   left: 6em;
@@ -55,4 +54,11 @@ h1 {
 }
 .container-row {
   margin-left: 5em;
+}
+.LinKED {
+  margin-top: 1em;
+}
+
+main {
+  margin-bottom: 3.5em;
 }
