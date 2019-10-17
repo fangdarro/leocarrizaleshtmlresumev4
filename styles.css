@@ -57,8 +57,12 @@ h1 {
 }
 .LinKED {
   margin-top: 1em;
+  margin-left: 1em;
 }
 
 main {
-  margin-bottom: 3.5em;
+  margin-bottom: 3.1em;
+}
+.outlook {
+  margin-top: 1em;
 }
