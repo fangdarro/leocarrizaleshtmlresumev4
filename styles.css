@@ -1,9 +1,7 @@
 body {
-  background-image: url("bluevortex.jpg");
+  background-image: url("https://raw.githubusercontent.com/fangdarro/leocarrizaleshtmlresumev4/master/background.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
-
-  min-width: 1024px;
   width: 100%;
   height: auto;
   top: 0;
