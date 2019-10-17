@@ -2,8 +2,7 @@ body {
   background-image: url("bluevortex.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  image-rendering: -webkit-optimize-contrast;
-  image-rendering: 100%;
+
   min-width: 1024px;
   width: 100%;
   height: auto;
